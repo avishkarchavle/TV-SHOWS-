@@ -1,0 +1,13 @@
+#div {
+    width: fit-content;
+    height: fit-content;
+    background-image: url(https://wallpaperaccess.com/full/4292476.jpg);
+    padding: 15px 15px;
+    margin: 15% auto;
+}
+
+#btn {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
